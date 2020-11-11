@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\bin\Debug\netcoreapp3.1\StackToGetMin.exe
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\bin\Debug\netcoreapp3.1\StackToGetMin.deps.json
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\bin\Debug\netcoreapp3.1\StackToGetMin.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\bin\Debug\netcoreapp3.1\StackToGetMin.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\bin\Debug\netcoreapp3.1\StackToGetMin.dll
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\bin\Debug\netcoreapp3.1\StackToGetMin.pdb
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\obj\Debug\netcoreapp3.1\StackToGetMin.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\obj\Debug\netcoreapp3.1\StackToGetMin.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\obj\Debug\netcoreapp3.1\StackToGetMin.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\obj\Debug\netcoreapp3.1\StackToGetMin.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\obj\Debug\netcoreapp3.1\StackToGetMin.dll
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\obj\Debug\netcoreapp3.1\StackToGetMin.pdb
+C:\Users\monisha.khapali\source\repos\StackToGetMin\StackToGetMin\obj\Debug\netcoreapp3.1\StackToGetMin.genruntimeconfig.cache
